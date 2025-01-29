@@ -1,0 +1,9 @@
+.header {
+  background-color: #1a1a1a;
+  padding: 20px;
+  text-align: left;
+}
+.header h1, .header p {
+  color: #fff;
+  margin: 0;
+}
