@@ -1,9 +1,17 @@
-.header {
-  background-color: #1a1a1a;
-  padding: 20px;
-  text-align: left;
+body {
+  background-color: #030303;
+  color: #e7e7e7;
+  margin: 0;
+  font-family: 'Cormorant', serif;
 }
+
+.header {
+  background-color: #030303;
+  padding: 20px;
+  text-align: left; 
+}
+
 .header h1, .header p {
-  color: #fff;
+  color: #e7e7e7;
   margin: 0;
 }
