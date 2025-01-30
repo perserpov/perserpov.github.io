@@ -17,10 +17,12 @@ body {
   font-weight: 400;
   text-transform: none;
   margin-bottom: 5px;
+  font-size: 28px;
 }
 
 .header h2 {
   font-family: 'Cormorant SC', serif;
   font-weight: 600;
   text-transform: uppercase;
+  font-size: 18px;
 }
