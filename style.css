@@ -18,7 +18,7 @@ img {
 
 h1 {
   font-family: 'Playfair Display', serif;
-  font-weight: 250;
+  font-weight: 400;
   font-size: 26px !important;
   margin: 0;
   margin-bottom: 5px;
@@ -27,7 +27,7 @@ h1 {
 
 h2 {
   font-family: 'Playfair Display', serif;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 18px !important;
   margin-top: 5px;
   margin-bottom: 0;
