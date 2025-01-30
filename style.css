@@ -11,12 +11,12 @@ body {
   text-align: left; 
 }
 .header h1 {
-  font-family: 'Cormorant', serif; /* Шрифт для h1 остается Cormorant */
+  font-family: 'Cormorant', serif;
   color: #e7e7e7;
   margin: 0;
 }
 .header h2 {
-  font-family: 'Cormorant SC', serif; /* Для h2 используем Cormorant SC */
+  font-family: 'Cormorant SC', serif;
   color: #e7e7e7;
   margin: 0;
 }
