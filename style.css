@@ -14,9 +14,9 @@ body {
 
 .header h1 {
   font-family: 'Playfair Display', serif;
-  font-weight: 600;
+  font-weight: 400;
   text-transform: none;
-  margin-bottom: 10px;
+  margin-bottom: 1px;
   font-size: 26px;
 }
 
