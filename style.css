@@ -20,6 +20,6 @@ body {
 
 .header h2 {
   font-family: 'Cormorant SC', serif;
-  font-weight: 400;
-  text-transform: uppercase;
+  font-weight: 600; 
+  text-transform: uppercase; 
 }
