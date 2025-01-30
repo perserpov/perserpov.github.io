@@ -4,15 +4,19 @@ body {
   margin: 0;
   font-family: 'Cormorant', serif;
 }
-
 .header {
   background-color: #030303;
   padding: 20px;
   padding-left: 40px;
   text-align: left; 
 }
-
-.header h1, .header h2 {
+.header h1 {
+  font-family: 'Cormorant', serif; /* Шрифт для h1 остается Cormorant */
+  color: #e7e7e7;
+  margin: 0;
+}
+.header h2 {
+  font-family: 'Cormorant SC', serif; /* Для h2 используем Cormorant SC */
   color: #e7e7e7;
   margin: 0;
 }
